@@ -89,9 +89,8 @@ No deployment.
 
 [![banner](/.internals/trademarks/animated-banner_1200x100.svg)](#)
 
-Since Inkscape did not publish any trademark guideline, **it is assumed standard
-trademarks laws applied to avoid any unwanted implications**. From time to time,
-you should refer to the following sources for updates:
+Since Inkscape published its trademark guideline, **from time to time, you
+should refer to the following resources to avoid any unwanted implications**:
 
 * https://inkscape.org/about/branding
 
